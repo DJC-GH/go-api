@@ -19,7 +19,7 @@ A simple RESTful API built with Go and Gin framework for managing a collection o
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/DJC-GH/go-api.git
 cd web-service-gin
 ```
 
@@ -123,15 +123,3 @@ web-service-gin/
 ├── go.sum          # Go module checksum
 └── README.md       # Documentation
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
